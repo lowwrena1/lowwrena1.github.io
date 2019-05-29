@@ -1,0 +1,20 @@
+h1 {font-size: 40px;
+    width: 167px;
+ background-color:#4aaaa5;}
+ #header {background-color: #ffffff}
+ #image-1 {float: left}
+ h2{
+    border-bottom: 3px lightgrey;
+    background-color: #ffffff;
+  }
+
+#div3{ font-family:  Arial, Arial, Helvetica, sans-serif ;
+     text-align: absolute;
+     padding: 14px 16px;
+    background-color: #ffffff}
+ 
+  #index { float: right;}
+  #portfolio { float: right;}
+  #right { float: right;}
+  #message {width: 850px;
+height: 200px}
