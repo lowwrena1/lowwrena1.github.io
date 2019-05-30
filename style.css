@@ -61,7 +61,8 @@ a {
      text-align: absolute;
      width: 960px;
      padding: 100px 200px;
-    background-color: #ffffff}
+    background-color: #ffffff;
+    border: #dddddd}
  
   #index { float: right;}
   #portfolio { float: right;}
