@@ -1,16 +1,66 @@
-h1 {font-size: 40px;
-    width: 167px;
- background-color:#4aaaa5;}
- #header {background-color: #ffffff}
+header {
+    height: 70px;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #777777;
+}
+.navbar {
+    width: 960px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    color: #777777;
+}
+
+.navlinks {
+    float: right;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    color: #777777;
+}
+   
+  a:link {
+    color: #777777;
+}
+
+a:visited {
+    color: #777777;
+}
+
+a:hover {
+    color: #e6b8d7;
+}
+
+a:active {
+    color: #a9bfdf;
+}
+
+a {
+    text-decoration: none;
+}
+
+#myname {
+    float: left;
+    text-align: center;
+    background: #4aaaa5;
+    padding: 11px;
+    color: #ffffff;
+    font-family: Cambria, Georgia, serif;
+    font-size: 30px;
+}
+
  #image-1 {float: left}
+ /* bottom boreder wont go through for some reason */
  h2{
-    border-bottom: 3px lightgrey;
+    border-bottom: 6px lightgrey;
     background-color: #ffffff;
   }
 
 #div3{ font-family:  Arial, Arial, Helvetica, sans-serif ;
      text-align: absolute;
-     padding: 14px 16px;
+     width: 960px;
+     padding: 100px 200px;
     background-color: #ffffff}
  
   #index { float: right;}
@@ -18,3 +68,9 @@ h1 {font-size: 40px;
   #right { float: right;}
   #message {width: 850px;
 height: 200px}
+#footer  {
+   background-color: #666666;
+   height: 50px;
+  }
+  #pfoot{text-align: center}
+  #portdiv{ }
