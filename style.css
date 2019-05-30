@@ -11,6 +11,10 @@ header {
     background-color: #ffffff;
     color: #777777;
 }
+.navbar a {
+    margin-left: 10px; 
+    margin-right: 10px;
+  }
 
 .navlinks {
     float: right;
@@ -61,7 +65,8 @@ a {
      text-align: absolute;
      width: 960px;
      padding: 100px 200px;
-    background-color: #ffffff;
+     background: transparent;
+    
     border: #dddddd}
  
   #index { float: right;}
@@ -74,4 +79,6 @@ height: 200px}
    height: 50px;
   }
   #pfoot{text-align: center}
-  
+  body{
+   background-image:  url("papyrus.png");
+  }
