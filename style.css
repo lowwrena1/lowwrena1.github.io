@@ -55,7 +55,7 @@ a {
 }
 
  #image-1 {float: left}
- /* bottom boreder wont go through for some reason */
+
  h2{
     border-bottom: 6px lightgrey;
     background-color: #ffffff;
