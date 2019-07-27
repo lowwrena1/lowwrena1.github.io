@@ -33,7 +33,7 @@ a:visited {
 }
 
 a:hover {
-    color: #e6b8d7;
+    color: #ada9b7;
 }
 
 a:active {
@@ -47,7 +47,7 @@ a {
 #myname {
     float: left;
     text-align: center;
-    background: #4aaaa5;
+    background: #896978;
     padding: 11px;
     color: #ffffff;
     font-family: Cambria, Georgia, serif;
@@ -68,12 +68,15 @@ a {
      background: transparent;
     
     border: #dddddd}
- 
   #index { float: right;}
   #portfolio { float: right;}
   #right { float: right;}
   #message {width: 850px;
 height: 200px}
+
+#gt{background-color: #828489;}
+#swac{background-color: #828489;}
+#ts{background-color: #828489;}
 #footer  {
    background-color: #666666;
    height: 50px;
@@ -82,3 +85,9 @@ height: 200px}
   body{
    background-image:  url("papyrus.png");
   }
+  #contMe{ font-family:  Arial, Arial, Helvetica, sans-serif ;
+    text-align: absolute;
+    width: 960px;
+    padding: 100px 200px;
+    background: transparent;}
+ 
