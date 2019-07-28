@@ -74,9 +74,9 @@ a {
   #message {width: 850px;
 height: 200px}
 
-#gt{background-color: #828489;}
-#swac{background-color: #828489;}
-#ts{background-color: #828489;}
+#gt{background-color: #896978;}
+#swac{background-color: #896978;}
+#ts{background-color: #896978;}
 #footer  {
    background-color: #666666;
    height: 50px;
@@ -89,5 +89,6 @@ height: 200px}
     text-align: absolute;
     width: 960px;
     padding: 100px 200px;
-    background: transparent;}
+    background: transparent;
+    float: right;}
  
