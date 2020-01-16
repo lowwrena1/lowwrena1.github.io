@@ -4,4 +4,4 @@ A second attempt on my portfolio
 # technologies used:
 * html
 * css
-*javascript
+* javascript
