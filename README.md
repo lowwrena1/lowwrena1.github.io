@@ -1,2 +1,7 @@
 # lowwrena1.github.io
-first homework project redone
+A second attempt on my portfolio
+
+# technologies used:
+* html
+* css
+*javascript
